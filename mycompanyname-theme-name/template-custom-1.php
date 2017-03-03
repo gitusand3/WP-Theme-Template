@@ -1,5 +1,5 @@
 <?php
 /*
-Template Name: My first custom template
+Template Name: Custom template 1
 */
 ?>
